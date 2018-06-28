@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact name="DataTest:jar2">
+    <output-path>$PROJECT_DIR$/out/artifacts/DataTest_jar2</output-path>
+    <root id="root">
+      <element id="archive" name="DataTest.jar">
+        <element id="module-output" name="DataTest" />
+      </element>
+      <element id="library" level="project" name="mysql-connector-java-5.1.46" />
+    </root>
+  </artifact>
+</component>

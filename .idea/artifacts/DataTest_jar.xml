@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="DataTest:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DataTest_jar</output-path>
+    <root id="archive" name="DataTest.jar">
+      <element id="module-output" name="DataTest" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/bin/mysql-connector-java-5.1.46.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
